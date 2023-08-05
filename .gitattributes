@@ -1,0 +1,15 @@
+crism_1000_train_spe.mat filter=lfs diff=lfs merge=lfs -text
+crism_1500_train_spa.mat filter=lfs diff=lfs merge=lfs -text
+crism_2500_train_spe.mat filter=lfs diff=lfs merge=lfs -text
+crism_500_train_spa.mat filter=lfs diff=lfs merge=lfs -text
+readme.txt filter=lfs diff=lfs merge=lfs -text
+crism_1000_test_spe.mat filter=lfs diff=lfs merge=lfs -text
+crism_2000_train_spe.mat filter=lfs diff=lfs merge=lfs -text
+crism_3000_train_spa.mat filter=lfs diff=lfs merge=lfs -text
+crism_500_train_spe.mat filter=lfs diff=lfs merge=lfs -text
+crism_2000_train_spa.mat filter=lfs diff=lfs merge=lfs -text
+crism_3000_train_spe.mat filter=lfs diff=lfs merge=lfs -text
+crism_1000_test_spa.mat filter=lfs diff=lfs merge=lfs -text
+crism_1000_train_spa.mat filter=lfs diff=lfs merge=lfs -text
+crism_1500_train_spe.mat filter=lfs diff=lfs merge=lfs -text
+crism_2500_train_spa.mat filter=lfs diff=lfs merge=lfs -text
