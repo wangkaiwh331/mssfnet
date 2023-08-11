@@ -9,11 +9,17 @@ This repository offers a PyTorch-based implementation of MSSFNet, including trai
 
 ## Requirements
 h5py==2.8.0
+
 matplotlib==2.2.3
+
 numpy==1.15.1
+
 scikit_learn==0.19.2
+
 scipy==1.1.0
+
 torch==2.0.1
+
 torchvision==0.15.2
 
 ## Training
