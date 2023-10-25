@@ -5,7 +5,7 @@ MSSFNet is a deep learning model designed for extracting Martian surface mineral
 This repository offers a PyTorch-based implementation of MSSFNet, including training scripts, prediction scripts, and a comprehensive dataset for testing purposes.
 
 ## Experimental Data
-[Experimental data](https://pan.baidu.com/s/1ezD4tNk6FrHAIyjH3VbZdQ) :sdke
+The training dataset and the test dataset are in the 'data' folder. Please extract 'data1.rar' and 'data2.rar' into the 'data' folder.
 
 ## Requirements
 h5py==2.8.0
